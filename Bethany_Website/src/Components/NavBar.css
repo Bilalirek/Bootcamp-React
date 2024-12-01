@@ -1,0 +1,13 @@
+.NavBar {
+  padding: 30px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.ListGroup {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+.ListGroup > li:hover {
+  cursor: pointer;
+}

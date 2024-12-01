@@ -1,0 +1,12 @@
+.Footer > p {
+  font-size: 19px;
+  font-weight: 600;
+}
+
+.Icons {
+  display: flex;
+  gap: 18px;
+}
+.Icons img {
+  cursor: pointer;
+}
